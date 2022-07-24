@@ -1,3 +1,1 @@
-# test-autodeploy 
-
-*Commit autodeployed*
+# test-autodeploy
